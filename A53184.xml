@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The observator reproved more especially in relation to the controversie between that eminently pious, charitable, and worthy divine Mr. Smithye, curate of Cripplegate, and himself.</title>
+            <author>Philo Pater.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53184</idno>
+            <idno type="STC">Wing O123K</idno>
+            <idno type="STC">ESTC R218956</idno>
+            <idno type="EEBO-CITATION">99830505</idno>
+            <idno type="PROQUEST">99830505</idno>
+            <idno type="VID">34957</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34957)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2109:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The observator reproved more especially in relation to the controversie between that eminently pious, charitable, and worthy divine Mr. Smithye, curate of Cripplegate, and himself.</title>
+                  <author>Philo Pater.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and published by Langley Curtis,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Philo Pater.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In response to L'Estrange, Sir Roger. The observator, a publication printed several times a week.</note>
+                  <note>Copy stained.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704. --  Observator --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34957:1" rendition="simple:additions"/>
+            <head>THE OBSERVATOR REPROVED, More eſpecially in Relation to the Controverſie between that Emi<g ref="char:EOLhyphen"/>nently <hi>Pious, Charitable,</hi> and <hi>Worthy</hi> Divine Mr. SMITHYE, Curate of <hi>Cripplegate,</hi> and himſelf.</head>
+            <p>THE Credit and Reputation of Mankind is of ſo Natural and high a concernment to every one, that thoſe Perſons whoſe <hi>Buſineſs</hi> and <hi>Livelyhood</hi> it is, <hi>per fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aut Nefas</hi> in their <hi>Publick Pamphlets,</hi> to make <hi>Spoyl</hi> or <hi>Inroad</hi> thereupon, ought of all others to be moſt ſeverely Puniſhed, it being no leſs a Crime then <hi>Privateering</hi> upon their <hi>Goods</hi> and <hi>Eſtates;</hi> In that, by this means, the <hi>Stock</hi> of <hi>Credit,</hi> which perhaps an <hi>Honeſt Man</hi> hath been all his Age a Toyling for, is in an hour or two's Reading Plunder'd from him by a <hi>Free-booter.</hi> But eſpecially amongſt all others, the <hi>Clergy</hi> ought to be kept <hi>Sacred</hi> in their <hi>Reputations,</hi> for that, as they are at beſt but <hi>Men,</hi> and <hi>ſo</hi> of the <hi>ſame Spirit</hi> with others, and no leſs Subject to Humane <hi>Frailties</hi> and <hi>Paſſions,</hi> but confined within the <hi>Limits</hi> and <hi>Regularity</hi> of their <hi>Function,</hi> they cannot redreſs Injuries of this kind, in reſpect of <hi>Decency,</hi> which others perhaps may take Liberty to do. But withal, whoever ſixes an <hi>Ill Report</hi> upon them, doth in effect as much as in him lyes, <hi>Fruſtate</hi> the <hi>Effects</hi> of their Miniſtry: No Man being ready to <hi>em<g ref="char:EOLhyphen"/>brace</hi> his <hi>Doctrine,</hi> whoſe <hi>Life</hi> and <hi>Converſation</hi> he conceives <hi>Oppoſite</hi> thereunto: It being expected, and not without good Reaſon, that their
+<pb n="2" facs="tcp:34957:2"/>
+               <hi>Opinions</hi> ſhould be <hi>Defin'd</hi> by their <hi>Manners:</hi> And therefore Men ought to be very <hi>Wary</hi> how they <hi>aſperſe</hi> them: Their <hi>Failings</hi> being rather to be <hi>Winked</hi> at than <hi>Divulged</hi> to the <hi>Popularity,</hi> who make at <hi>beſt,</hi> but a <hi>bad</hi> Interpretation of the <hi>leaſt</hi> thereof: However, if they fall <hi>Inadver<g ref="char:EOLhyphen"/>tently</hi> thereinto, a <hi>Private Intimation</hi> thereof ought always to forerun a <hi>Publick Conſure;</hi> that they may be heard before they are Condemned, and that even by thoſe that have a <hi>Right</hi> to take <hi>Notice</hi> thereof, leaſt they Incurr the Cenſure of <hi>Seneca.</hi>
+            </p>
+            <q>
+               <l>Qui Statuit aliquid, (Parte in auditae altera)</l>
+               <l>Equum licet Statuerit, haud equus eſt.</l>
+            </q>
+            <p>But how this falls within Mr. <hi>Obſervators</hi> Sphere, <hi>(for who hath call'd him to be a Judge)</hi> I am yet to Learn, unleſs as in all other things, he delights to have an <hi>Oar</hi> in thoſe <hi>Boats</hi> where he hath no propriety. That this he hath done, and particularly in the caſe of Mr. <hi>Smithies,</hi> notwithſtanding all his <hi>Shuffling</hi> and <hi>Cutting</hi> upon the <hi>Point,</hi> is Noto<g ref="char:EOLhyphen"/>rious to all Men that have heard the controverſie, the very Words of his Sermon being all along pointed at, and though Mr. <hi>Obſervator</hi> Ill-favouredly enough lays by the Cudgells, and Equivocates to put off the Combat, yet his Paſſion too often out-runs his Judgment, and inſtead of excuſing himſelf, and finding fault with him only as a <hi>Schiſmatick,</hi> he charges him <hi>down-right</hi> as a <hi>Conſpirator, Obſer. Numb.</hi> 135. where he ſaith in <hi>Anſwer</hi> to <hi>Trimmer</hi> about the <hi>Diſpute</hi> aforeſaid. <hi>No, no, 'tis the main cauſe it ſelf, and the very</hi> Diana <hi>of the Conſpiracy that is now at Stake, The <hi>Replyer</hi> is only an Inſtrument of the Faction, the Club blows the Bagpipes, and <hi>he Tweedles.</hi>
+               </hi> And though in the <hi>next Words,</hi> he ſays, <hi>It is as falſe as Hell that he Libelled his Sermon,</hi> yet Read on<g ref="char:EOLhyphen"/>ward and you'l find him at it, where he continues, <hi>That Pulpit Ambi<g ref="char:EOLhyphen"/>guities, Generalities, and Equivocations (from a Man of a <hi>doubted</hi> and <hi>ſuſpected Loyalty</hi>) when they are uſed without Salvo's or Explications to bring them off, are ſtill ſure to be taken by the Popular handle, and as they are <hi>intended</hi> for the Service of the <hi>Schiſme.</hi>
+               </hi> That this is meant of Mr. <hi>Smithye,</hi> Explain the <hi>Text</hi> by the <hi>Context,</hi> in his own <hi>Expoſition</hi> of theſe Ambiguities, <hi>&amp;c. Obſer. Numb.</hi> 132. <hi>When they talk of <hi>bring<g ref="char:EOLhyphen"/>ing</hi> over <hi>Diſſenters</hi> to the <hi>Church,</hi> 'tis <hi>Compounding</hi> the <hi>Church</hi> with the <hi>Schiſme,</hi> one thing to the <hi>Loyal</hi> and another to the <hi>Faſtious</hi> part of the Auditory, The Miniſters and Congregation in this Caſe Preach and Hear in Cypher, <hi>Burthens</hi> ſtand for <hi>Perſecution,</hi> &amp;c.</hi> which is the
+<pb n="3" facs="tcp:34957:2"/>very thing he Carps at in the Sermon; This being then a Truth that he hath Calumniated Mr. <hi>Smithye,</hi> I would a little deſcend into the Caſe, and Examine Mr. <hi>Obſervators</hi> way of Anſwering; For which I humbly beg Mr. <hi>Smithies</hi> Pardon, who hath ſo well defended and vin<g ref="char:EOLhyphen"/>dicated himſelf from his <hi>Virulent Reflexions</hi> that there is little need of my imperfect endeavours to juſtifie the ſame: Yet as it is not ſingly his caſe, but that of all Men whom this pretended State Squinter hath a Mind to Calumniate, I hope I may have Liberty to deſcant thereupon. Wherein I muſt confeſs as he hath poſted himſelf, he ſtands almoſt <hi>Shot-free,</hi> having ſo In<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> woven <hi>his Topicks</hi> into the Juncture of the <hi>Times,</hi> and our <hi>
+                  <g ref="char:V">Ʋ</g>nhappy Differences,</hi> that a man cannot Level Truth it ſelf a<g ref="char:EOLhyphen"/>gainſt him, but it returns with hazard.</p>
+            <p>Thoſe that are his <hi>Converts</hi> and <hi>Admirers,</hi> being moſt of them of his <hi>Opinion,</hi> that it is <hi>dangerous Medling</hi> with him. And he who under<g ref="char:EOLhyphen"/>takes to <hi>ſeperate</hi> his <hi>Deſigns</hi> from his <hi>Poſitions,</hi> does no leſs then hazard the <hi>State</hi> he <hi>Audaciouſly pretends</hi> to be the only <hi>Argos</hi> of. Than which, nothing can be more falſe, it being obvious in all his Writings, that he is not that Friend to the Government which he would have the World believe, in that, where-ever he Speaks one Word for the <hi>Church of Eng<g ref="char:EOLhyphen"/>land,</hi> it is always Ballanced, tho not in direct Terms, by a ſide Wind, for the oppoſite <hi>Church</hi> beyond the <hi>Alps;</hi> The drift and intention of his Pamphlets either <hi>Siding with them,</hi> as in <hi>due time</hi> and upon <hi>due pro<g ref="char:EOLhyphen"/>vocation</hi> may be made <hi>Manifeſt,</hi> or in <hi>Running</hi> down, and <hi>Expoſing</hi> the <hi>better half</hi> of their Enemies under falſe and <hi>Scandalous Imputations,</hi> not <hi>admitting</hi> them to be <hi>quiet</hi> in their very <hi>Pulpits:</hi> So that he would do well, however he <hi>denominates</hi> others, to <hi>Clear</hi> himſelf of that <hi>material</hi> and <hi>Significant Queſtion</hi> lately put to him, of being a <hi>Popiſh Trimmer.</hi>
+            </p>
+            <p>But this I doubt me he'l evade, and tell his <hi>Diſciples</hi> 'tis a <hi>Sciſmati<g ref="char:EOLhyphen"/>cal, Phanatical, Diabolical,</hi> and <hi>Damnable</hi> Queſtion, contrived at the <hi>Clubb</hi> in <hi>Ave-Mary-Lane</hi> (a place I'le aſſure him I was never at) by <hi>ſome Preacher, Tubſter, Songſter, Sheriff, Alderman, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, Parſon, Vicar,</hi> Scribe, Phariſee, Republican, Clerk, Councellor, <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dan</hi>
+               </hi> or <hi>Iulian</hi> an <hi>Apoſtate,</hi> whereinto none are <hi>admitted,</hi> but <hi>ſuch as have betrayed their Maſter, or given ſome remarkable Teſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Latitude of their Re<g ref="char:EOLhyphen"/>ligion,</hi> with a long <hi>Et caetera</hi> of his own <hi>Qualifications:</hi> Obſer. <hi>Numb.</hi> 134. And judge you if this be not an excellent and compendious way of diſ<g ref="char:EOLhyphen"/>charging a Mans ſelf from a downright Accuſation: Yet if the ſame will not ſatisfie you, you'l put his <hi>Obſervatorſhip</hi> into plain Railing, and make him as in <hi>Obſerv. Numb.</hi> 133. Run himſelf out of Breath in Paſſi<g ref="char:EOLhyphen"/>on,
+<pb n="4" facs="tcp:34957:3"/>and perhaps conclude upon you as there he doth in a great Fret: <hi>A French <hi>Peaſant</hi> would be a <hi>Prince</hi> compar'd with a Lay</hi> Engliſhman <hi>under ſuch a <hi>ſet</hi> of <hi>Eccleſiaſticks.</hi>
+               </hi> But if this be the Nature of the <hi>Beaſt,</hi> who can help it, if the <hi>Aſſe Brays,</hi> or the <hi>Whelp Barks,</hi> it is their <hi>property,</hi> and let them have their way; for otherwiſe, I'le aſſure you, if neither of theſe will do, a Hunted <hi>Hare</hi> hath not more <hi>Shifts</hi> than <hi>himſelf:</hi> The <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lie Biaſs</hi> of his <hi>Tongue</hi> which he charges <hi>others</hi> with, will be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine to turn upon you, and ſome or other falſe <hi>Imputation</hi> ſhall be <hi>Scandalouſly</hi> laid at your Door, as in the <hi>Caſe</hi> before us, where he accuſes our <hi>Divine as an Interloper into other Mens Pariſhes, draw<g ref="char:EOLhyphen"/>ing together a Select Number of Young People (Servants commonly) of both Sexes, out of ſeveral Pariſhes, and theſe to meet once a Week in ſome Pri<g ref="char:EOLhyphen"/>vate Houſe to hear the <hi>Canonical Clergy,</hi> Pray, Read, Expound, and Catechiſe, at the Rate of</hi> 6 d. 12 d. <hi>or</hi> 18 d. <hi>a Quarter, more or leſs; and theſe are called ſuch an ones People, which was only a kind of <hi>Smiting</hi> the Lords Children, to <hi>Wilmore</hi> them away by the firſt paſsage to Heaven.</hi> Obſerv. Numb. 133.</p>
+            <p>Excellent Intelligence, and pitty it is but the <hi>Informer</hi> ſhould have his <hi>Reward,</hi> but let him firſt <hi>Swear</hi> to it, or I'me afraid the <hi>Lame-Dogg</hi> will ſcarce get over the <hi>Stile.</hi> In good Truth Mr. <hi>Obſervator</hi> you are <hi>Gravelled,</hi> for I perceive on <hi>Saturday</hi> laſt, you wave the Point, and go to <hi>buſineſs</hi> of <hi>more Importance,</hi> where you tell us only of <hi>the Spite, Dilligence and Induſtry of the Faction, their Marks and Deſigns, their Practiſes of old, the Fraud of Equivocal Expreſſions in Religion and State:</hi> as in your Title Page, which is as <hi>old</hi> as your <hi>Pamphlets,</hi> and as <hi>Thread<g ref="char:EOLhyphen"/>bare</hi> as Mr. <hi>Smithies Caſſock,</hi> but not one word of him, I perceive you would be glad to be rid of him, but Methinks after ſo fair a fall, you ſhould not be again ſo ſoon upon a Challenge, as in your <hi>Second Para<g ref="char:EOLhyphen"/>graph</hi> of the <hi>ſame Day</hi> (which I have nothing to do with) but as Mr. <hi>Bays</hi> has it of your Brother <hi>Draw-can-Sir</hi> in the <hi>Rehearſal.</hi>
+            </p>
+            <q>
+               <l>You Huſſe, you Strut, Look bigg and Stare,</l>
+               <l>And all this you can do, becauſe you dare.</l>
+            </q>
+            <p>But I'le aſſure you according to the Opinion of moſt Men, it would better have beſeemed you to have let the Divine alone, unleſs it were as Mr. <hi>Bays</hi> again hath it, <hi>Rehearſal pa.</hi> 3. <hi>That there were certain tyes upon you, that you could not be diſengaged from; and you wrote for the ſake of ſome Ingenious Perſons, and choice Female Spirits, that have a
+<pb n="5" facs="tcp:34957:3"/>Value for you, otherwiſe you would ſee them all Hang'd before you would ever more ſet I'en to Paper.</hi> If I may adviſe you, do ſo no more, let the <hi>Pulpits</hi> and <hi>Honeſt Clergy Men</hi> alone to their <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> for as it is further ſaid in the ſame Author, (<hi>pag.</hi> 15.) <hi>I ver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you have Writ a whole Cart-load of things every whit as good as this, and the Is<g ref="char:EOLhyphen"/>ſolent Raſcals</hi> (the Whiggs) <hi>turn them back on your hands.</hi> But you may do as you pleaſe, for this is not your laſt fetch, as I perceive in that of yours, <hi>Numb.</hi> 135. where you put it into <hi>Trimmers</hi> Month (whether ever it was in the Intentions of others I can't tell) <hi>That they are abſolutely reſolved to Petition againſt you.</hi> A dangerous Crime in<g ref="char:EOLhyphen"/>deed, and no leſs in your own ſence, then what Imports the overthrow of the Government, or worſe, as you are pleaſed to explain it; For you ſay, <hi>they muſt</hi> ſet forth, <hi>That whereas they find they can do no good on't by violent Courſes, they ſhall now content themſelves to try what may be done by the very <hi>ſame People,</hi> and to the very <hi>ſame Purpoſes,</hi> in a Sober Moderate way, and pray that they may have Liberty every Man in his <hi>Place</hi> and <hi>Caſting,</hi> to proceed in a Peaceable manner, without either <hi>Piſtol</hi> or <hi>Blunderbus,</hi> to the Poyſoning of the Kings Leige People</hi> (a new way to Poyſon by <hi>Piſtol</hi> or <hi>Blunderbus,</hi> found out by the <hi>Obſervator</hi>) with <hi>True Proteſtant Principles and <hi>Doctrines</hi> and ſo bring his Majeſty the neareſt way to his Journeys end, without Contradiction or Controul.</hi> Yes, Queſtionleſs, and the firſt ſtep to it in <hi>Petitioning</hi> againſt the <hi>Ob<g ref="char:EOLhyphen"/>ſervator,</hi> for a <hi>Common Scandaler</hi> of the <hi>Church</hi> and <hi>Church-men.</hi> But Pray Sir, do you think that this pretext will paſs for <hi>Currant Coyn</hi> by way of Anſwer to the <hi>Debt</hi> you owe to <hi>Truth</hi> and Mr <hi>Smithies.</hi> I imagine it as far from the point in hand, as it is from the Hearts of ſuch you Accuſe with it, or indeed, as your Accuſation of Mr. <hi>Smithye</hi> for his <hi>Poverty</hi> and <hi>Apparrel,</hi> which is our next Head.</p>
+            <p>An <hi>Impudent Ill-bred Fellow,</hi> to diſturb you in your <hi>Vocation,</hi> that walks about with <hi>Knots</hi> in his <hi>Girdle</hi> and a <hi>Torn Caſſock,</hi> Begging for the <hi>Poor Curate</hi> of <hi>Cripplegate,</hi> (for ſuch indeed are his <hi>unaccounted for Collections,</hi> as you are falſly pleas'd to Term them) and ſhall he dare to confront the <hi>Rich Obſervator?</hi> By no means, it is not to be Suffered: But Pray <hi>Sir,</hi> I hope you'l give him leave to tell you, as I think be hath done, <hi>That were it not for God and your Good Friends,</hi> you might have been as Poor as he, which you ought to be Thankful for: <hi>Thankful for,</hi> alaſs not you, ſay ſuch another Word, and for Six <hi>Obſervators</hi> together, you ſhall hear of nothing but <hi>Faction, Sedition, Hereſie, Fire, Fire, a Powder Plot, or worſe againſt the State,</hi> (for by the way, every
+<pb n="6" facs="tcp:34957:4"/>thing that aims at <hi>Roger,</hi> carries as much in the Belly of it) To Thanks he was never bred, Gratitude is none of his Accompliſhments. The <hi>Cambridge Offerings</hi> and laſt <hi>New-Years</hi> Gathering, were paid in <hi>Tempore quo non <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xta<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>moria hominis;</hi> Beſides the private Rewards I dare not ſay from St. <hi>O—s.</hi> It' Truth he had the firſt, but what then? Has he had the <hi>Vallue</hi> of his <hi>Merits?</hi> In my Conſcience I think not, for why? <hi>He Rides not yet,</hi> (miſtake not my meaning) in his <hi>Coach</hi> and <hi>Six,</hi> as in <hi>days</hi> of <hi>Yore,</hi> but muſt Trudge on Ten-Toes or Hackney it to <hi>Sams Coffee-Houſe,</hi> to meet his <hi>News Factors, Informers,</hi> and <hi>Comerades:</hi> And is not this a pity? Let People talk what they will of <hi>Searing</hi> one anothers <hi>Burthens,</hi> or <hi>Preach</hi> ſuch <hi>Sedition</hi> if they pleaſe, it ſhall be <hi>Schiſme</hi> and <hi>Phanatiſchiſme,</hi> or what elſe Mr. <hi>Obſerva<g ref="char:EOLhyphen"/>tor</hi> thinks fit, unleſs they'l be pleaſed to <hi>hear</hi> his'n. Good Man, hath he deſerved ſo much, and attain'd ſo little? Why, what is 1000 or 1500 <hi>l.</hi> with 8 or 10 <hi>Yellow Boys Weekly</hi> for the Copies of his <hi>Pamphlets?</hi> juſt as good as nothing, for I remember in one of his <hi>Obſervators,</hi> which I ſhall not be at the charge of Quoting, he is making up his Accounts there, that at the rate of Ten Pound a Week (the Allow<g ref="char:EOLhyphen"/>ance of <hi>Oates</hi> and <hi>Bedloe</hi> in former times) a Vaſtly greater Sum was <hi>Due</hi> to him for his Writings and <hi>Diſcoveries:</hi> And Methinks I have ſeen a Picture that much Reſembles a Friend of the <hi>Obſervators</hi> hang<g ref="char:EOLhyphen"/>ing (tho not in the right place) on many a Stall in Town, with a ſhrewd kind of Complaining <hi>Motto</hi> o're the Head of it: I ſuppoſe for want of theſe Arrears, The Words are <hi>VOS NON VOBIS,</hi> to <hi>Engliſh</hi> which, I muſt tell the <hi>Reader</hi> an Old Story.</p>
+            <p>In the time of <hi>Auguſtus Caeſar,</hi> there was a certain Poet, tho then un<g ref="char:EOLhyphen"/>known; for the ſince Fam'd <hi>Virgil,</hi> that upon occaſion of a Fair Morning, wherein <hi>Caeſar</hi> was to go a Hunting, after a Stormy Night, made two Verſes, wherein he divided the Empire of the Univerſe be<g ref="char:EOLhyphen"/>tween <hi>Jove</hi> and <hi>Auguſtus,</hi> and wrote the ſame upon the Pallace Gate, which the Emperour was to paſs, who eſpying the ſame, and being mightily pleaſed therewith, ordered an Imperial Reward to the Poet, but <hi>Virgil</hi> (being ſomewhat Modeſter than <hi>Nobbs</hi>) would not own him<g ref="char:EOLhyphen"/>ſelf the Author, ſo that a Month being elapſed, and none coming in for the Reward, a certain Rhimer of the Town Challenged the ſame, whereupon the Gratuity was paid him, which afterwards coming to the Ears of <hi>Virgil,</hi> he ſeem'd Vexed that another ſhould Run away with his Honour and Reward, and makes uſe of our <hi>Obſervators Motto, Sic Vos, Non Vobis,</hi> which he wrote four times over on the <hi>Pallace-Gate</hi>
+               <pb n="7" facs="tcp:34957:4"/>aforeſaid, which no Body underſtanding, (as moſt likewiſe miſtake the preſent Application of it) <hi>Caeſar</hi> ordered the Poet who had the Gratuity paid him, to make Sence thereof, which he Fruitleſly endeavouring, acknowledged his Weakneſs, al<g ref="char:EOLhyphen"/>leadging the ſame was Impoſſible. Whereupon <hi>Virgil</hi> in the ſame Secreſie as he wrote the former, finiſhed the ſame in the following Words, whereby he got his Reward, and diſcovered the <hi>Impoſtor,</hi>
+            </p>
+            <q>
+               <l>Sic Vos, non Vobis, Nidificatis Aves.</l>
+               <l>Sic vos non vobis, Mellificatis Apes.</l>
+               <l>Sic vos non vobis, Veller a fertis Oves.</l>
+               <l>Sic vos non vobis, fertis Aratra Boves.</l>
+            </q>
+            <p>Which is no more in <hi>Engliſh</hi> then this, 'tis I that do the work, and others have the Reward, or in Mr. <hi>Obſervators</hi> meaning, I have wrought at the Plow of the Government, and others have had the Harveſt of my pains; I am the ſame Beaſt I was, your Laborious <hi>Obſervator</hi> and Humble Servant. Alas poor Man, and who is this Impoſtor that hath wrong'd thee? Thou haſt Earned, and who hath got the Reward? Thou art not only fruſtrated of the Enjoyment of thy Beauteous <hi>Rachel,</hi> but ſcarce a Blear-Ey'd <hi>Leah</hi> left in her ſtead. Is this the Reward of thy Seven, and Thrice Seven Years Service? What a pitty it is? Complain to your Superiours, or carry your Picture with that Labell in the Mouth of it, <hi>Vos non Vobis;</hi> which is the ſame thing, and acquaint them into what place you ſhould be <hi>Admitted,</hi> and who is there, in <hi>your ſtead,</hi> get a Blank, and write your <hi>own Demands,</hi> and who knows but your Arrears may be paid you, when God and Some<g ref="char:EOLhyphen"/>body pleaſes; In the mean while, <hi>Write</hi> on, <hi>Rail abundantly,</hi> and <hi>Flatter extreamly,</hi> fling <hi>Dirt</hi> on all your <hi>Oppoſers,</hi> and be ſure you beſpatter the <hi>Engliſh Clergy,</hi> to gain the better <hi>Reputation</hi> with the <hi>Forreign;</hi> Whether ſometime or other you may have <hi>occaſion</hi> to Travel (as not long ſince) you'l fare the better for it, though perhaps you have no ſuch aim, they Love ſuch an <hi>Advocate</hi> with all their <hi>Hearts;</hi> You <hi>ſtrengthen</hi> their <hi>Intereſt,</hi> in <hi>Weakning</hi> their <hi>Enemies,</hi> and whilſt you ſet <hi>Whigg</hi> and <hi>Tory</hi> at variance, you play the <hi>Trimmer</hi> for <hi>them.</hi> But pray <hi>Nobbs</hi> have a care, and let us ſtep one Foot more onwards to your next way of Anſwering, and
+<pb n="8" facs="tcp:34957:5"/>that is when you come to be <hi>Home Hunted,</hi> like a <hi>Cunning Fox,</hi> you <hi>Piſs</hi> on your <hi>Tail,</hi> and fling it in the Eyes of your <hi>Purſuers;</hi> or in <hi>Plainer Engliſh,</hi> to confound a Mans Principles of <hi>Loyalty</hi> to his preſent Majeſty, whom God Long preſerve in Length of days, and all manner of Increaſe: You Tranſverſe 1684 to 1648. and thereby tell him of what was <hi>done perhaps before</hi> he was Born, or at leaſt of <hi>Plots</hi> and <hi>Conſpiracies ſince,</hi> wherein he had not leaſt concern, unleſs to Abominate the <hi>Contrivers</hi> and <hi>Contrivance,</hi> as all good Men ought to do, Licking up all the <hi>Excrements</hi> that an <hi>Ill Tongue</hi> or as <hi>bad</hi> an <hi>Age</hi> and <hi>Juncture</hi> of <hi>Times</hi> can <hi>furniſh</hi> you with, which undigeſted, is Squirted from your <hi>Quill</hi> to Sully the <hi>Cleareſt Reputation.</hi> But enough of ſuch <hi>Dirt,</hi> I'le Waſh my Hands and be clear of you, Wiſhing you only when you next meddle with Mr. <hi>Smithye,</hi> or through his Sides, with the whole Clergy (for by the ſame <hi>Authority</hi> you wrong him, there is no <hi>Pulpit</hi> but you may <hi>Calumniate,</hi> or <hi>Honeſt Man</hi> but you may <hi>Li<g ref="char:EOLhyphen"/>bell</hi>) to tell the <hi>World</hi> who it is that <hi>Impowers</hi> you, and then I doubt not but we may ſee an <hi>Original Commiſſion</hi> which Doctor <hi>Oates</hi> could never produce.</p>
+            <byline>By <hi>Philo Pater.</hi>
+            </byline>
+            <closer>
+               <dateline>
+                  <hi>Dated at</hi> London, <date>Sept. <hi>the</hi> 22d. 1684.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and Publiſhed by <hi>Langley Curtis, 1684.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
